@@ -12,7 +12,7 @@
 2. Another item
 3. Nested item
 
-| Name  | Age | Job      |
-|-------|-----|----------|
-| Alice | 30  | Developer|
-| Bob   | 25  | Designer |
+| Name  | Age |
+|-------|-----|
+| Alice | 30  |
+| Bob   | 25  |
