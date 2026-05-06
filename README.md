@@ -10,7 +10,7 @@
 
 1. Numbered item
 2. Another item
-3. Nested item
+
 
 ```python
 print("Hello, World!")
